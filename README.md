@@ -32,4 +32,4 @@ https://demowebshop.tricentis.com/
 - Test_Summary_Report.docx
 
 ## 🎯 Outcome:
-Improved application quality by identifying defects and ensuring functionality.
+Identified bugs and tested key features like login, product search, and cart functionality to ensure the application works correctly.
